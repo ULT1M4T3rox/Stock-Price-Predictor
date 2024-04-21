@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 27 02:30:40 2022
 
-@author: VAISHNAV
 """
 import pandas as pd
 from tqdm import tqdm
